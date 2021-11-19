@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2021.1 (64-bit)
+# SW Build 3247384 on Thu Jun 10 19:36:33 MDT 2021
+# IP Build 3246043 on Fri Jun 11 00:30:35 MDT 2021
+# Start of session at: Fri Nov 19 14:05:17 2021
+# Process ID: 16712
+# Current directory: C:/Users/Josh/Desktop/FPGA/TEST1/7SEG/7SEG.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source C:/Users/Josh/Desktop/FPGA/TEST1/7SEG/7SEG.sim/sim_1/behav/xsim/xsim.dir/test_bench_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: C:/Users/Josh/Desktop/FPGA/TEST1/7SEG/7SEG.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: C:/Users/Josh/Desktop/FPGA/TEST1/7SEG/7SEG.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source C:/Users/Josh/Desktop/FPGA/TEST1/7SEG/7SEG.sim/sim_1/behav/xsim/xsim.dir/test_bench_behav/webtalk/xsim_webtalk.tcl -notrace
